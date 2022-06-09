@@ -11,4 +11,4 @@ HTML, CSS
 [View Project](https://sergiomendozer.github.io/Anvil-work-with-us-email/)
 
 ## Project Image
-<a href="url"><img src="/work-with.png"  height="500" width="350" ></a>
+<a href="url"><img src="/work-with.png"  height="500" width="300" ></a>

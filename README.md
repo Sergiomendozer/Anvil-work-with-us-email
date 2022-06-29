@@ -1,4 +1,4 @@
-# HTML Email: Anvil A&S reachig out to another company to work together
+# HTML Email: Anvil A&S reaching out to another company to work together
 
 ## Techs used:
 
